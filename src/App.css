@@ -1,0 +1,14 @@
+*{
+  margin: 0; 
+  box-sizing: border-box 
+  }
+
+  
+
+body{
+  background-image: url(https://i.pinimg.com/originals/3f/ae/39/3fae39a623e8d830d26e8ff7ff5bc9b1.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1500px 1500px;
+  background-attachment: fixed;
+}

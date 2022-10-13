@@ -1,0 +1,11 @@
+.navbar-nav {
+    --bs-nav-link-padding-y: 0rem !important;
+}
+
+.form-control {
+    width: 25rem !important;
+}
+
+.Button{
+    background-color: rgb(2, 254, 151);
+}
